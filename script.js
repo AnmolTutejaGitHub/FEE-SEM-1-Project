@@ -21,6 +21,12 @@ function toggleModal() {
 }
 
 
+
+
+
+
+
+
 // //changing languge  
 // function translatePage() {
 //   const targetLanguage = 'hi'; 
